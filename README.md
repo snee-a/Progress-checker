@@ -8,7 +8,7 @@
 
 ## 📸 Demo
 
-![Demo GIF](./assets/demo.gif)
+![Demo GIF](./assets/screenrecord.gif)
 
 > 🎥 Add a screen recording as `demo.gif` inside the `assets` folder to showcase the app in action.
 
@@ -35,4 +35,34 @@
 ---
 
 ## 📂 Folder Structure
+DailyProgress/
+├── public/
+│ └── index.html
+├── src/
+│ ├── App.jsx
+│ ├── App.css
+│ └── main.jsx
+├── assets/
+│ └── demo.gif ← (You’ll add this)
+└── README.md
+
+
+
+## 🚀 Getting Started (Local Setup)
+
+```bash
+git clone https://github.com/snee-a/Progress-checker.git
+cd Progress-checker
+npm install
+npm run dev
+
+🙌 Inspiration
+"Success is the sum of small efforts, repeated day in and day out."
+— Robert Collier
+
+This app is built to help you track those small efforts. Stay consistent, stay motivated!
+
+📬 Contact
+If you like the project or want to suggest features, feel free to connect via GitHub @snee-a
+
 
