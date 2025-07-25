@@ -10,8 +10,6 @@
 
 ![Demo GIF](./assets/screenrecord.gif)
 
-> 🎥 Add a screen recording as `demo.gif` inside the `assets` folder to showcase the app in action.
-
 ---
 
 ## ✨ Features
